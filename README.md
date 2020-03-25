@@ -1,5 +1,6 @@
 # Star Animation
-Learning about animation in canvas with.
+Learning about animation in canvas with P5.s.
+
 ![preview](preview.png)
 
 ## Libraries
